@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello%2C+I+am+Kisara+Pesanjith+Perera;I%E2%80%99m+Currently+Working+On+%3A+MaX+Bots;+How+To+Reach+Me+%3A+Contact+Me+On+Telegram;Ask+Me+About+Anything%2C+I+Am+Happy+To+Help)](https://github.com/KisaraPesanjithPerera)
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+GitHub+.com!;created+by+mrbean!;A+simple+telegram+Bot!;+telegram+group+mallu+movie+search+join+with+telegram+GROUP+friends+features!)
+ 
 <p align="center">
   <a href="https://t.me/KisaraPesanjithPerera"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
     </p>
